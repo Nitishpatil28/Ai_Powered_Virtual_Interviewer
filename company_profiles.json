@@ -1,0 +1,42 @@
+{
+  "Google": {
+    "keywords": ["algorithms","data structures","system design","distributed systems","c++","java","python","machine learning","tensorflow","search","scalability"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Microsoft": {
+    "keywords": ["c#","dotnet",".net","azure","distributed systems","os","system design","security","sql","cloud"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Amazon": {
+    "keywords": ["aws","distributed systems","system design","scalability","java","python","microservices","data structures","algorithms","ecommerce"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Infosys": {
+    "keywords": ["java","sql","spring","hibernate","web services","client","enterprise","testing","software engineering"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Wipro": {
+    "keywords": ["java",".net","testing","devops","enterprise","sap","client services","web services"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Flipkart": {
+    "keywords": ["java","scala","kafka","hadoop","aws","ecommerce","microservices","big data","algorithms"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Swiggy": {
+    "keywords": ["react","nodejs","microservices","aws","mobile","scalability","real-time","geolocation"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Razorpay": {
+    "keywords": ["payments","security","java","nodejs","razorpay","fintech","fraud","api","microservices"],
+    "weights": {"skills":0.6,"education":0.1,"experience":0.2,"roles":0.1}
+  },
+  "Deloitte": {
+    "keywords": ["consulting","analytics","data","sql","python","client","finance","project management"],
+    "weights": {"skills":0.5,"education":0.15,"experience":0.25,"roles":0.1}
+  },
+  "Accenture": {
+    "keywords": ["consulting","enterprise","java",".net","aws","sap","cloud","devops","automation"],
+    "weights": {"skills":0.5,"education":0.15,"experience":0.25,"roles":0.1}
+  }
+}
